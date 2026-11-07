@@ -6,7 +6,6 @@
 Welcome to the official user manual for **3A_Texture Paint v1.0**, a native viewport texture painting plugin designed for LightWave 3D. This guide covers all functionalities, tabs, and settings available in the Numeric interface panel.
 
 <img width="512" height="342" alt="Captura de ecrã 2026-11-03 205153" src="https://github.com/user-attachments/assets/60a4312f-c3fb-4760-b4ad-e61649f9ab03" />
----
 
 ## 1. Brush Tab Overview
 
